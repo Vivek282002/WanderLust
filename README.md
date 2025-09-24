@@ -28,7 +28,7 @@ You can view the live application here: https://wanderlust-rkzn.onrender.com/
 ![WanderLust New Listing Creation Screenshot](src/assets/new.png)
 - Show Listing Page
 ![WanderLust Show Listing Screenshot](src/assets/show.png)
--Edit Listing Page
+- Edit Listing Page
 ![WanderLust Edit Listing Screenshot](src/assets/edit.png)
 
 
