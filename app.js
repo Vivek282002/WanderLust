@@ -75,11 +75,11 @@ const sessionOptions = {
     },
 };
 
-/*
+
 app.get("/", (req, res) => {
-    res.send("Hii, I am root");
+    res.redirect("/listings"); // users will land on /listings by default
 });
-*/
+
 
 
 
