@@ -22,7 +22,11 @@ You can view the live application here: https://wanderlust-rkzn.onrender.com/
   - 📱 Responsive Design: A clean and modern UI that works smoothly on both desktop and mobile devices.
 
 ## 📸 Screenshots
-(This is a great place to add screenshots of your application!)
+![WanderLust Home Page Screenshot](src/assets/home.png)
+![WanderLust New Listing Creation Screenshot](src/assets/new.png)
+![WanderLust Show Listing Screenshot](src/assets/show.png)
+![WanderLust Edit Listing Screenshot](src/assets/edit.png)
+
 
 ## How to Use
 
