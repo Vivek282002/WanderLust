@@ -3,7 +3,7 @@ WanderLust is a full-stack web application for browsing and managing vacation pr
 
 
 ## 🌐 Live Demo
-You can view the live application here: WanderLust on Render
+You can view the live application here: https://wanderlust-rkzn.onrender.com/
 
 ## ✨ Key Features 
 
